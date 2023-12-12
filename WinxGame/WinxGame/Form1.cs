@@ -10,8 +10,6 @@ namespace WinxGame
         private readonly Fairy _fairy;
         private Spider[] _spiders;
 
-        private int _aaaaaaaaaaaaaa;
-
         const int SpidersCount = 10;
 
         public Form1()
